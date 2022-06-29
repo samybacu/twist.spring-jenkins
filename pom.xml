@@ -14,7 +14,7 @@
 	<name>twist.spring-jenkins</name>
 	<description>Demo jenkins githun integrattion</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
