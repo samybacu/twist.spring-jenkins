@@ -16,6 +16,7 @@ public class Application {
 	@PostConstruct
 	public void init() {
 		logger.info("Application  twist.spring.jenkins started");
+		logger.info("Application  twist.spring.jenkins started : second change in bootApp");
 	}
 
 	public static void main(String[] args) {
