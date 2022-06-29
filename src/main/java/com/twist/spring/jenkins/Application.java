@@ -21,6 +21,7 @@ public class Application {
 	public static void main(String[] args) {
 		
 		logger.info("Application  twist.spring.jenkins started");
+		logger.info("Application  twist.spring.jenkins started : second change in bootApp");
 		
 		SpringApplication.run(Application.class, args);
 	}
