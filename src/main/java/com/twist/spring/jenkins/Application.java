@@ -23,7 +23,7 @@ public class Application {
 		
 		logger.info("Application  twist.spring.jenkins started");
 		logger.info("Application  twist.spring.jenkins started : second change in bootApp");
-		
+		logger1.info
 		SpringApplication.run(Application.class, args);
 	}
 
